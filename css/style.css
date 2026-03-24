@@ -101,6 +101,7 @@ html {
 
 /* Section backgrounds */
 #home {
+    background-color: #0a0a0a;
     min-height: 90vh;
     background: url('../assets/bg-dark.jpeg');
     background-size: cover;
